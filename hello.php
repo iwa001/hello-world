@@ -1,4 +1,4 @@
 <?php
 //This is a new file
-echo "Hello World";
+echo "<h1>Hello World</h1>";
 ?>
